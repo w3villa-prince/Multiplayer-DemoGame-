@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{0D6FB9C7-1A10-D587-5BB0-927B60E5AE5B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PhotonManager.cs" Line="114" Column="46" />
+      <File FileName="Assets/Scripts/Menu.cs" />
+      <File FileName="Assets/Scripts/MenuManger.cs" />
+      <File FileName="Assets/Scripts/RoomItem.cs" />
+      <File FileName="Assets/Scripts/PlayerListItem.cs" />
+      <File FileName="Assets/Scripts/RoomManager.cs" Line="38" Column="118" />
+      <File FileName="Assets/Scripts/PlayerManager.cs" Line="20" Column="10" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="47" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="de32526a-4f37-42b3-8ded-4aaa5d7c3cdf" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
